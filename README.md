@@ -13,7 +13,9 @@
 # 配置截图
 ![shot1](ScreenShots/screenshot1.png)
 ![shot2](ScreenShots/screenshot2.png)
+![shot3](ScreenShots/screenshot3.png)
 #  依赖关系
+
 + Fira Code 字体
 + Windows Terminal (Preview) 应用程序 with Windows 10 (version >= 1903)
 + WSL 子系统
