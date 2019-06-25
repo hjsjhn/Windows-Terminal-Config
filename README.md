@@ -10,6 +10,9 @@
     ```
 2. 将 `profiles.json` 内容替换 Windows Terminal 的配置文件内容
 3. 使用 WSL ，安装 zsh ，将 `.zshrc` 替换 WSL 中的 `~/.zshrc`
+# 配置截图
+![shot1](/Screenshots/screenshot1.png)
+![shot2](/Screenshots/screenshot2.png)
 #  依赖关系
 + Fira Code 字体
 + Windows Terminal (Preview) 应用程序 with Windows 10 (version >= 1903)
